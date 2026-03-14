@@ -326,6 +326,7 @@
       margin-left: 1rem;
     }
 
+
     /* ─── ABOUT ─── */
     #about .about-grid {
       display: grid;
