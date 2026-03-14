@@ -499,9 +499,9 @@
     </div>
     <div class="contact-details">
       <div class="contact-row"><span class="c-label">Email</span><span class="c-val"><a href="mailto:adil7attiaoui@gmail.com">adil7attiaoui@gmail.com</a></span></div>
-      <div class="contact-row"><span class="c-label">Phone</span><span class="c-val"><a href="tel:+212636793114">+212 636 793 114</a></span></div>
+      <div class="contact-row"><span class="c-label">Phone</span><span class="c-val"><a href="tel:+000000000">+000000000</a></span></div>
       <div class="contact-row"><span class="c-label">LinkedIn</span><span class="c-val"><a href="https://www.linkedin.com/in/" target="_blank">linkedin.com/in/adil-attiaoui</a></span></div>
-      <div class="contact-row"><span class="c-label">Location</span><span class="c-val">545, Lot. Chemaou / Rte Kenitra<br>Salé, Maroc 11160</span></div>
+      <div class="contact-row"><span class="c-label">Location</span><span class="c-val">Salé, Maroc 11160</span></div>
       <div class="contact-row"><span class="c-label">Affiliation</span><span class="c-val">ENSIAS · Mohammed V University<br>Rabat, Morocco</span></div>
     </div>
   </div>
