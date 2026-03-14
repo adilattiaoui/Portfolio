@@ -850,7 +850,7 @@
   <!-- PROFILE PHOTO — replace "your-photo.jpg" with your actual image filename -->
   <div class="hero-photo-wrap">
     <div class="hero-photo-frame">
-      <img src="your-photo.jpg" alt="Adil Attiaoui"
+      <img src="https://media.licdn.com/dms/image/v2/D4E03AQEzNfe2hYVvlg/profile-displayphoto-crop_800_800/B4EZka2PjZGcAM-/0/1757092051673?e=1775088000&v=beta&t=iKdPaT66bg91n_UGViRjBAf9gmYaBtEd57PTwTPzlbw" alt="Adil Attiaoui"
            onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
       <div class="hero-photo-initials" style="display:none">A.A</div>
     </div>
