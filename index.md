@@ -377,7 +377,22 @@
       color: var(--text);
     }
 
+    /* ─── EDUCATION ─── */
+    #education .timeline {
+      position: relative;
+      padding-left: 2rem;
+    }
 
+    #education .timeline::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0.5rem; bottom: 0;
+      width: 1px;
+      background: linear-gradient(to bottom, var(--accent), transparent);
+    }
+
+    .timeline-item {
+      position: relative;
       margin-bottom: 3rem;
       padding-left: 2.5rem;
       opacity: 0;
@@ -722,75 +737,6 @@
       #about .about-grid { grid-template-columns: 1fr; gap: 3rem; }
       .exp-item { grid-template-columns: 1fr; gap: 0.5rem; }
       .scroll-indicator { left: 1.5rem; }
-    }
-
-    /* ─── HERO LAYOUT ─── */
-    #hero {
-      display: flex !important;
-      align-items: center !important;
-      gap: 4rem !important;
-    }
-
-    /* ─── PROFILE PHOTO ─── */
-    .hero-photo-wrap {
-      position: relative;
-      flex-shrink: 0;
-      z-index: 2;
-      opacity: 0;
-      animation: fade-up 0.8s 0.2s forwards;
-    }
-
-    .hero-photo-frame {
-      width: 240px;
-      height: 240px;
-      border-radius: 50%;
-      border: 3px solid var(--accent);
-      padding: 4px;
-      background: var(--bg);
-      box-shadow: 0 0 0 1px rgba(26,86,219,0.15), 0 16px 48px rgba(26,86,219,0.14);
-      position: relative;
-    }
-
-    .hero-photo-frame::after {
-      content: '';
-      position: absolute;
-      inset: -10px;
-      border-radius: 50%;
-      border: 1px dashed rgba(26,86,219,0.25);
-      animation: spin-ring 18s linear infinite;
-    }
-
-    @keyframes spin-ring {
-      from { transform: rotate(0deg); }
-      to   { transform: rotate(360deg); }
-    }
-
-    .hero-photo-frame img {
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      object-fit: cover;
-      object-position: center top;
-      display: block;
-    }
-
-    .hero-photo-caption {
-      text-align: center;
-      margin-top: 1rem;
-      font-family: var(--mono);
-      font-size: 0.65rem;
-      color: var(--muted);
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-    }
-
-    @media (max-width: 900px) {
-      #hero { flex-direction: column !important; align-items: flex-start !important; gap: 2.5rem !important; }
-      .hero-photo-frame { width: 160px; height: 160px; }
-    }
-
-    @media (max-width: 600px) {
-      .hero-photo-frame { width: 120px; height: 120px; }
     }
 
     /* ─── LANG BARS ─── */
