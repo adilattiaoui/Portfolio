@@ -410,7 +410,7 @@
 
   <div class="hero-photo-wrap">
     <div class="hero-photo-frame">
-      <img src="https://media.licdn.com/dms/image/v2/D4E03AQEzNfe2hYVvlg/profile-displayphoto-crop_800_800/B4EZka2PjZGcAM-/0/1757092051673?e=1775088000&v=beta&t=iKdPaT66bg91n_UGViRjBAf9gmYaBtEd57PTwTPzlbw" alt="Adil Attiaoui" />
+      <img src="1757092051673.jfif" alt="Adil Attiaoui" />
     </div>
     <div class="hero-photo-caption">Adil Attiaoui · PhD</div>
   </div>
