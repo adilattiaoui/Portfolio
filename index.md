@@ -1111,8 +1111,8 @@
       <a class="contact-link" href="https://www.linkedin.com/in/" target="_blank">
         in LinkedIn
       </a>
-      <a class="contact-link" href="tel:+212636793114">
-        ☎ +212 636 793 114
+      <a class="contact-link" href="https://www.researchgate.net/profile/Adil-Attiaoui">
+        in ResearchGate
       </a>
     </div>
   </div>
