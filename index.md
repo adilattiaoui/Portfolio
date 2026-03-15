@@ -563,42 +563,42 @@
       <div class="pub-venue">CommNet 2025 · Rabat, Morocco </div>
       <div class="pub-title">Blockchained Federated Learning for Secure and Privacy-Preserving Internet of Vehicles: A Comprehensive Review</div>
       <div class="pub-authors"><strong>A. Attiaoui</strong>, A. Kobbane,   M. Ayaida, M. Elmachkour, Y. El Hillali</div>
-      <div class="pub-doi">doi: 10.1109/CommNet68224.2025.11288848</div>
+      <div class="pub-doi"><a href="https://doi.org/10.1109/CommNet68224.2025.11288848"> doi: 10.1109/CommNet68224.2025.11288848</a></div>
     </div>
     
     <div class="pub-card">
       <div class="pub-venue">VEHITS 2025 · Porto, Portugal <span class="pub-class">Class C</span></div>
       <div class="pub-title">Misbehavior Detection in Connected Vehicle: Pre-Bayesian Majority Game Framework</div>
       <div class="pub-authors"><strong>A. Attiaoui</strong>, M. Elmachkour, A. Kobbane, M. Ayaida</div>
-      <div class="pub-doi">doi: 10.5220/0013359100003941</div>
+      <div class="pub-doi"><a href="https://doi.org/10.5220/0013359100003941">doi: 10.5220/0013359100003941</a></div>
     </div>
 
     <div class="pub-card">
       <div class="pub-venue">ICCSN 2024 · Ningbo, China</div>
       <div class="pub-title">Strategic Trust: Reputation-Based Mechanisms for Mitigating Malicious Behavior in Vehicular Collective Perception</div>
       <div class="pub-authors"><strong>A. Attiaoui</strong>, M. Elmachkour, M. Ayaida, A. Kobbane</div>
-      <div class="pub-doi">doi: 10.1109/ICCSN63464.2024.10793308</div>
+      <div class="pub-doi"><a href="https://doi.org/10.1109/ICCSN63464.2024.10793308">doi: 10.1109/ICCSN63464.2024.10793308</a></div>
     </div>
 
     <div class="pub-card">
       <div class="pub-venue">UNet 2024 · Marrakech, Morocco</div>
       <div class="pub-title">Securing University Diploma Management through Blockchain and InterPlanetary File System</div>
       <div class="pub-authors"><strong>A. Attiaoui</strong>, A. Kobbane, M. Ayaida</div>
-      <div class="pub-doi">doi: 10.1109/UNet62310.2024.10794707</div>
+      <div class="pub-doi"><a href="https://doi.org/10.1109/UNet62310.2024.10794707">doi: 10.1109/UNet62310.2024.10794707</a></div>
     </div>
 
     <div class="pub-card">
       <div class="pub-venue">INTCEC 2024 · Chicago, IL, USA</div>
       <div class="pub-title">Blockchain-Enabled Defense Mechanism for Protecting Federated Learning Systems Against Malicious Node Updates</div>
       <div class="pub-authors"><strong>A. Attiaoui</strong>, A. Kobbane, J. Elhachmi, M. Ayaida, K. Chougdali</div>
-      <div class="pub-doi">doi: 10.1109/INTCEC61833.2024.10602881</div>
+      <div class="pub-doi"><a href="https://doi.org/10.1109/INTCEC61833.2024.10602881">doi: 10.1109/INTCEC61833.2024.10602881</a></div>
     </div>
 
     <div class="pub-card">
       <div class="pub-venue">ICC 2024 · Denver, CO, USA <span class="pub-class">Class B</span></div>
       <div class="pub-title">Efficient Collaborations through Weight-Driven Coalition Dynamics in Federated Learning Systems</div>
       <div class="pub-authors">M. E. Hanjri, H. Reguieg, <strong>A. Attiaoui</strong>, A. Abouaomar, A. Kobbane, M. E. Kamili</div>
-      <div class="pub-doi">doi: 10.1109/ICC51166.2024.10623064</div>
+      <div class="pub-doi"><a href="https://doi.org/10.1109/ICC51166.2024.10623064">doi: 10.1109/ICC51166.2024.10623064</a></div>
     </div>
 
   </div>
