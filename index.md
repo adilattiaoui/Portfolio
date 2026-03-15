@@ -417,7 +417,7 @@
 
   <div class="hero-content">
     <div class="hero-tag">PhD Researcher · ENSIAS &amp; INSA–UPHF · Co-tutelle</div>
-    <h1 class="hero-name">Adil<br><em>Attiaoui</em></h1>
+    <h1 class="hero-name">Adil <em>Attiaoui</em></h1>
     <p class="hero-subtitle">
       Researching <strong>Vehicular Collective Perception Misbehavior Detection &amp; Mitigation</strong>
       in a co-tutelle PhD between <strong>ENSIAS, Mohammed V University</strong> (Morocco) and
@@ -467,11 +467,11 @@
       </div>
       <div class="info-item">
         <span class="info-label">Phone</span>
-        <span class="info-val">+212 636 793 114</span>
+        <span class="info-val">+33 765 124 470</span>
       </div>
       <div class="info-item">
         <span class="info-label">Location</span>
-        <span class="info-val">Salé, Morocco</span>
+        <span class="info-val">Rabat, Morocco</span>
       </div>
       <div class="info-item">
         <span class="info-label">Status</span>
