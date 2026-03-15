@@ -39,7 +39,7 @@
       position: fixed;
       inset: 0;
       background-image: radial-gradient(circle, rgba(26,86,219,0.06) 1px, transparent 1px);
-      background-size: 28px 28px;
+      background-size: 45px 45px;
       pointer-events: none;
       z-index: 0;
     }
@@ -420,9 +420,8 @@
     <h1 class="hero-name">Adil <em>Attiaoui</em></h1>
     <p class="hero-subtitle">
       Researching <strong>Vehicular Collective Perception Misbehavior Detection &amp; Mitigation</strong>
-      in a co-tutelle PhD between <strong>ENSIAS, Mohammed V University</strong> (Morocco) and
-      <strong>INSA–UPHF</strong> (France). Exploring the intersection of cybersecurity, federated learning,
-      and intelligent transportation systems.
+      in a co-tutelle PhD between <strong>ENSIAS, Mohammed V University in Rabat </strong> (Morocco) and
+      <strong>INSA Hauts-de-France, Polytechnic University of Hauts-de-France</strong> (France). Exploring the intersection of cybersecurity, federated learning, and intelligent transportation systems.
     </p>
     <div class="hero-badges">
       <span class="badge">V2X Security</span>
