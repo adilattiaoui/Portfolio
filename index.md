@@ -677,7 +677,7 @@
             </div>
           </div>
           <div class="soft-item">
-            <div class="soft-icon">🤲</div>
+            <div class="soft-icon">👨‍💼</div>
             <div>
               <div class="soft-label">Engagement &amp; Citizenship</div>
               <div class="soft-desc">Active member of the Forsa Personal Development Association, contributing to community mentoring and youth empowerment initiatives.</div>
