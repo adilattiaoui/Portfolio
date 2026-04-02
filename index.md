@@ -552,7 +552,7 @@
       <div class="skill-group-title">Teaching &amp; Supervision</div>
       <ul class="cert-list">
         <li>Design and delivery of lab sessions and tutorials for engineering students</li>
-        <li>Pedagogy adapted to different student levels (Bac+1 to Bac+2)</li>
+        <li>Pedagogy adapted to different student levels </li>
         <li>Mentoring and academic supervision of Final Year Projects</li>
         <li>Assessment and evaluation of student practical work</li>
       </ul>
