@@ -755,7 +755,7 @@
 
       <div class="fyp-card">
         <div class="fyp-num">FYP 01 · 2023–2024</div>
-        <div class="fyp-title">Design and Implementation of an Intrusion Detection System for IoT Networks using Machine Learning</div>
+        <div class="fyp-title">Development of a Secure Application for the Management and Storage of Sensitive Documents</div>
         <div class="fyp-student">Supervised student: <strong>2nd year engineering — ENSIAS</strong></div>
         <div class="fyp-student" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">The project focused on developing a lightweight anomaly-based IDS tailored for resource-constrained IoT devices, using classification algorithms (Random Forest, SVM) trained on network traffic datasets. The student implemented the system in Python and evaluated it against known IoT attack scenarios (DoS, replay, man-in-the-middle).</div>
         <div class="fyp-tags">
@@ -769,7 +769,7 @@
 
       <div class="fyp-card">
         <div class="fyp-num">FYP 02 · 2023–2024</div>
-        <div class="fyp-title">Blockchain-based Secure Data Sharing Platform for Connected Vehicle Environments</div>
+        <div class="fyp-title">Diploma Management Application Using Blockchain Technology and NFTs</div>
         <div class="fyp-student">Supervised student: <strong>2nd year engineering — ENSIAS</strong></div>
         <div class="fyp-student" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">The project explored the use of blockchain technology to ensure integrity and traceability of data exchanged between vehicles and infrastructure in a V2X scenario. The student designed a smart-contract-based access control mechanism using Ethereum/Solidity, tested on a local blockchain testnet with simulated vehicle nodes.</div>
         <div class="fyp-tags">
