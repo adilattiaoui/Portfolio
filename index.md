@@ -816,6 +816,7 @@
       <div>
         <div class="exp-role">Member</div>
         <div class="exp-org">Forsa Personal Development Association</div>
+         <div class="fyp-student" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">Active member of the Projects Monitoring and Evaluation Committee, contributing to the planning, follow-up, and assessment of community and development projects. Participated in organizing activities, supporting team coordination, and improving project impact through structured evaluation processes.</div>
       </div>
     </div>
   </div>
