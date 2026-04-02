@@ -750,7 +750,7 @@
 
   <!-- FYP Details -->
   <div style="margin-top: 3rem;">
-    <div class="fyp-label">Supervised Final Year Projects</div>
+    <div class="fyp-label">Co-Supervised Final Year Projects</div>
     <div class="fyp-grid">
 
       <div class="fyp-card">
