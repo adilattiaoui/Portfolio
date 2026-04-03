@@ -448,7 +448,7 @@
     <button class="skills-tab" onclick="showTab('savoiretre')">Soft Skills</button>
   </div>
   <!-- Certifications -->
-  <div id="tab-certifications" class="skills-panel">
+  <div id="tab-certifications" class="skills-panel active">
     <div class="skill-group">
       <div class="skill-group-title">Cisco</div>
       <ul class="cert-list">
@@ -479,7 +479,7 @@
     </div>
   </div>
   <!-- Technical -->
-  <div id="tab-technical" class="skills-panel active">
+  <div id="tab-technical" class="skills-panel ">
     <div class="skill-group">
       <div class="skill-group-title">Networking &amp; Protocols</div>
       <ul class="cert-list">
