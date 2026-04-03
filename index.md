@@ -831,7 +831,8 @@
     <p class="contact-sub">Interested in collaboration, research discussions, or academic opportunities? Reach out.</p>
     <div class="contact-links">
       <a class="contact-link" href="mailto:adil7attiaoui@gmail.com">✉ adil7attiaoui@gmail.com</a>
-      <a class="contact-link" href="https://www.linkedin.com/in/adil-attiaoui" target="_blank"><img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/c59f9694-ab6f-4e42-92ff-8e72c685bdf6" />
+      <a class="contact-link" href="https://www.linkedin.com/in/adil-attiaoui" target="_blank"><img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/15430c26-adec-4d06-8d23-b4ed5a68f63a" />
+
  LinkedIn</a>
       <a class="contact-link" href="https://www.researchgate.net/profile/Adil-Attiaoui/" target="_blank"><img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/02c724c2-dee1-4fd8-806e-8ea486f28381" />
 
