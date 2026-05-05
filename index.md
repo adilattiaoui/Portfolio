@@ -947,7 +947,7 @@
 <!-- ACTION PLAN -->
 <section id="action-plan">
   <div class="section-header">
-    <span class="section-num">08</span>
+    <span class="section-num">09</span>
     <h2 class="section-title">Action Plan</h2>
     <div class="section-line"></div>
   </div>
