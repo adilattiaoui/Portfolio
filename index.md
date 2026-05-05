@@ -882,7 +882,6 @@ In the long term, my goal is to contribute to the development of next-generation
 I am particularly interested in roles that combine research, system design, and real-world implementation, allowing me to translate scientific insights into robust and deployable solutions.</p>
     </div>
   </div>
-     </div>
   </div>
 </section>
 <div class="divider"></div>
